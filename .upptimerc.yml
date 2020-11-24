@@ -13,7 +13,7 @@ sites:
     - name: My journal
       url: https://my-journal.vercel.app
     - name: My Server
-      url: $SECRET_SERVER
+      url: ${{ secrets.SECRET_SERVER }}
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

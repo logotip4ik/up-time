@@ -1,42 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "BogdanKostyuk",
+    "url": "https://bogdankostyuk.vercel.app",
+    "slug": "bogdan-kostyuk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 127
+    "time": 105
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Typist",
+    "url": "https://typist.surge.sh",
+    "slug": "typist",
     "status": "up",
-    "uptime": "99.82%",
-    "time": 346
+    "uptime": "100.00%",
+    "time": 381
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Rivne History",
+    "url": "https://rivne-history.surge.sh",
+    "slug": "rivne-history",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 443
+  },
+  {
+    "name": "My journal",
+    "url": "https://my-journal.vercel.app",
+    "slug": "my-journal",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 43
+  },
+  {
+    "name": "My Server",
+    "url": "$SECRET_SERVER",
+    "slug": "my-server",
     "status": "down",
-    "uptime": "0.00%",
+    "uptime": "8.83%",
     "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.97%",
-    "time": 49
   }
 ]

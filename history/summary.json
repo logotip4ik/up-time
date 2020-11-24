@@ -5,7 +5,7 @@
     "slug": "bogdan-kostyuk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 105
+    "time": 104
   },
   {
     "name": "Typist",
@@ -13,7 +13,7 @@
     "slug": "typist",
     "status": "up",
     "uptime": "100.00%",
-    "time": 381
+    "time": 322
   },
   {
     "name": "Rivne History",
@@ -21,7 +21,7 @@
     "slug": "rivne-history",
     "status": "up",
     "uptime": "100.00%",
-    "time": 443
+    "time": 409
   },
   {
     "name": "My journal",
@@ -29,14 +29,14 @@
     "slug": "my-journal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 43
+    "time": 48
   },
   {
     "name": "My Server",
-    "url": "$SECRET_SERVER",
+    "url": "${{ secrets.SECRET_SERVER }}",
     "slug": "my-server",
     "status": "down",
-    "uptime": "6.10%",
+    "uptime": "0.24%",
     "time": 0
   }
 ]

@@ -5,7 +5,7 @@
     "slug": "bogdan-kostyuk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 104
+    "time": 99
   },
   {
     "name": "Typist",
@@ -13,7 +13,7 @@
     "slug": "typist",
     "status": "up",
     "uptime": "100.00%",
-    "time": 322
+    "time": 372
   },
   {
     "name": "Rivne History",
@@ -29,14 +29,14 @@
     "slug": "my-journal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 48
+    "time": 55
   },
   {
     "name": "My Server",
-    "url": "${{ secrets.SECRET_SERVER }}",
+    "url": "https://todowebapp-f.herokuapp.com/",
     "slug": "my-server",
-    "status": "down",
-    "uptime": "0.24%",
-    "time": 0
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 131
   }
 ]

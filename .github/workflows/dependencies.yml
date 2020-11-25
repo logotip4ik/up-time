@@ -8,7 +8,7 @@
 name: Dependencies CI
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 jobs:
   release:
@@ -21,8 +21,12 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
+      - name: Setup Node.js
+        uses: actions/setup-node@v1.4.4
+        with:
+          node-version: 14
       - name: Update dependencies
-        uses: upptime/uptime-monitor@v1.17.2
+        uses: upptime/uptime-monitor@v1.17.3
         with:
           command: "update-dependencies"
         env:

@@ -11,17 +11,17 @@
     "name": "Typist",
     "url": "https://typist.surge.sh",
     "slug": "typist",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 325
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 296
   },
   {
     "name": "Rivne History",
     "url": "https://rivne-history.surge.sh",
     "slug": "rivne-history",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 344
+    "time": 313
   },
   {
     "name": "My journal",

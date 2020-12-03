@@ -5,22 +5,22 @@
     "slug": "bogdan-kostyuk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 186
+    "time": 178
   },
   {
     "name": "Typist",
     "url": "https://typist.surge.sh",
     "slug": "typist",
     "status": "up",
-    "uptime": "99.76%",
-    "time": 296
+    "uptime": "99.79%",
+    "time": 299
   },
   {
     "name": "Rivne History",
     "url": "https://rivne-history.surge.sh",
     "slug": "rivne-history",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.79%",
     "time": 304
   },
   {
@@ -29,7 +29,7 @@
     "slug": "my-journal",
     "status": "up",
     "uptime": "100.00%",
-    "time": 150
+    "time": 142
   },
   {
     "name": "My Server",
@@ -37,6 +37,6 @@
     "slug": "my-server",
     "status": "up",
     "uptime": "100.00%",
-    "time": 331
+    "time": 332
   }
 ]

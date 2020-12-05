@@ -9,43 +9,43 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 124,
-    "timeWeek": 196,
-    "timeMonth": 174,
-    "timeYear": 174
+    "time": 169,
+    "timeDay": 98,
+    "timeWeek": 140,
+    "timeMonth": 169,
+    "timeYear": 169
   },
   {
     "name": "Typist",
     "url": "https://typist.surge.sh",
     "slug": "typist",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 326,
-    "timeDay": 367,
-    "timeWeek": 327,
-    "timeMonth": 326,
-    "timeYear": 326
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 324,
+    "timeDay": 293,
+    "timeWeek": 333,
+    "timeMonth": 324,
+    "timeYear": 324
   },
   {
     "name": "Rivne History",
     "url": "https://rivne-history.surge.sh",
     "slug": "rivne-history",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 327,
-    "timeDay": 319,
-    "timeWeek": 288,
-    "timeMonth": 327,
-    "timeYear": 327
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 326,
+    "timeDay": 311,
+    "timeWeek": 297,
+    "timeMonth": 326,
+    "timeYear": 326
   },
   {
     "name": "My journal",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 105,
-    "timeWeek": 175,
-    "timeMonth": 140,
-    "timeYear": 140
+    "time": 134,
+    "timeDay": 53,
+    "timeWeek": 107,
+    "timeMonth": 134,
+    "timeYear": 134
   },
   {
     "name": "My Server",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 397,
-    "timeDay": 374,
-    "timeWeek": 402,
-    "timeMonth": 397,
-    "timeYear": 397
+    "time": 396,
+    "timeDay": 382,
+    "timeWeek": 390,
+    "timeMonth": 396,
+    "timeYear": 396
   }
 ]

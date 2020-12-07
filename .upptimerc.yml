@@ -5,7 +5,7 @@ repo: up-time # Your Github repository name
 # Add your sites here
 sites:
     - name: BogdanKostyuk
-      url: https://bogdankostyuk.vercel.app
+      url: https://bogdankostyuk.netlify.app
     - name: Typist
       url: https://typist.surge.sh
     - name: Rivne History

@@ -2,22 +2,27 @@
   {
     "name": "BogdanKostyuk",
     "url": "https://bogdankostyuk.vercel.app",
+    "icon": "https://favicons.githubusercontent.com/bogdankostyuk.vercel.app",
     "slug": "bogdan-kostyuk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 154,
-    "timeWeek": 140,
-    "timeMonth": 165,
-    "timeYear": 165
+    "time": 175,
+    "timeDay": 247,
+    "timeWeek": 165,
+    "timeMonth": 175,
+    "timeYear": 175,
+    "dailyMinutesDown": {
+      "2020-12-07": 0
+    }
   },
   {
     "name": "Typist",
     "url": "https://typist.surge.sh",
+    "icon": "https://favicons.githubusercontent.com/typist.surge.sh",
     "slug": "typist",
     "status": "up",
     "uptime": "99.86%",
@@ -29,11 +34,15 @@
     "timeDay": 522,
     "timeWeek": 339,
     "timeMonth": 332,
-    "timeYear": 332
+    "timeYear": 332,
+    "dailyMinutesDown": {
+      "2020-12-01": 26
+    }
   },
   {
     "name": "Rivne History",
     "url": "https://rivne-history.surge.sh",
+    "icon": "https://favicons.githubusercontent.com/rivne-history.surge.sh",
     "slug": "rivne-history",
     "status": "up",
     "uptime": "99.86%",
@@ -45,11 +54,15 @@
     "timeDay": 319,
     "timeWeek": 299,
     "timeMonth": 325,
-    "timeYear": 325
+    "timeYear": 325,
+    "dailyMinutesDown": {
+      "2020-12-01": 26
+    }
   },
   {
     "name": "My journal",
     "url": "https://my-journal.vercel.app",
+    "icon": "https://favicons.githubusercontent.com/my-journal.vercel.app",
     "slug": "my-journal",
     "status": "up",
     "uptime": "100.00%",
@@ -61,11 +74,13 @@
     "timeDay": 100,
     "timeWeek": 110,
     "timeMonth": 138,
-    "timeYear": 138
+    "timeYear": 138,
+    "dailyMinutesDown": {}
   },
   {
     "name": "My Server",
     "url": "https://todowebapp-f.herokuapp.com/",
+    "icon": "https://favicons.githubusercontent.com/todowebapp-f.herokuapp.com",
     "slug": "my-server",
     "status": "up",
     "uptime": "100.00%",
@@ -77,6 +92,7 @@
     "timeDay": 390,
     "timeWeek": 388,
     "timeMonth": 393,
-    "timeYear": 393
+    "timeYear": 393,
+    "dailyMinutesDown": {}
   }
 ]

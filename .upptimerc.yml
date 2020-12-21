@@ -12,8 +12,9 @@ sites:
       url: https://rivne-history.surge.sh
     - name: My journal
       url: https://my-journal.vercel.app
-    - name: My Server
-      url: https://todowebapp-f.herokuapp.com/
+    - name: Pixel Drawer
+      url: https://pixel-drawer.vercel.app/
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

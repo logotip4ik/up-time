@@ -4,18 +4,19 @@
     "url": "https://bogdankostyuk.xyz",
     "icon": "https://favicons.githubusercontent.com/bogdankostyuk.xyz",
     "slug": "bogdan-kostyuk",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 370,
     "timeDay": 555,
     "timeWeek": 846,
     "timeMonth": 510,
     "timeYear": 370,
     "dailyMinutesDown": {
+      "2021-01-24": 0,
       "2021-01-20": 118
     }
   },

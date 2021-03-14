@@ -70,9 +70,9 @@
     "url": "https://my-journal.vercel.app",
     "icon": "https://favicons.githubusercontent.com/my-journal.vercel.app",
     "slug": "my-journal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -81,7 +81,9 @@
     "timeWeek": 137,
     "timeMonth": 141,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-14": 0
+    }
   },
   {
     "name": "Pixel Drawer",
@@ -89,18 +91,16 @@
     "icon": "https://favicons.githubusercontent.com/pixel-drawer.vercel.app",
     "slug": "pixel-drawer",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 205,
     "timeDay": 113,
     "timeWeek": 149,
     "timeMonth": 134,
     "timeYear": 205,
-    "dailyMinutesDown": {
-      "2021-03-14": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]

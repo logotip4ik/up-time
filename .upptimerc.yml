@@ -11,7 +11,7 @@ sites:
     - name: Rivne History
       url: https://rivne-history.surge.sh
     - name: My journal
-      url: https://my-journal.vercel.app
+      url: https://logotip4ik.github.io/my-journal/
     - name: Pixel Drawer
       url: https://pixel-drawer.vercel.app/
 

@@ -6,8 +6,8 @@ repo: up-time # Your Github repository name
 sites:
     - name: BogdanKostyuk
       url: https://bogdankostyuk.xyz
-    - name: NULP Recruiting
-      url: https://lpnu-recruiting.vercel.app
+#     - name: NULP Recruiting
+#       url: https://lpnu-recruiting.vercel.app
     - name: Typist
       url: https://logotip4ik.github.io/typist/
     - name: Rivne History

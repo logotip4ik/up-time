@@ -22,6 +22,24 @@
     }
   },
   {
+    "name": "NULP Recruiting",
+    "url": "https://lpnu-recruiting.vercel.app",
+    "icon": "https://favicons.githubusercontent.com/lpnu-recruiting.vercel.app",
+    "slug": "nulp-recruiting",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Typist",
     "url": "https://logotip4ik.github.io/typist/",
     "icon": "https://favicons.githubusercontent.com/logotip4ik.github.io",

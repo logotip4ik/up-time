@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 407,
-    "timeDay": 256,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 407,
-    "dailyMinutesDown": {
-      "2021-03-02": 30
-    }
+    "timeDay": 159,
+    "timeWeek": 176,
+    "timeMonth": 175,
+    "timeYear": 406,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Typist",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 129,
-    "timeWeek": 64,
-    "timeMonth": 69,
+    "timeDay": 41,
+    "timeWeek": 63,
+    "timeMonth": 68,
     "timeYear": 104,
     "dailyMinutesDown": {}
   },
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 360,
-    "timeWeek": 424,
-    "timeMonth": 440,
+    "time": 683,
+    "timeDay": 396,
+    "timeWeek": 436,
+    "timeMonth": 439,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2021-03-09": 18
@@ -69,7 +67,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 54,
+    "timeDay": 17,
     "timeWeek": 21,
     "timeMonth": 26,
     "timeYear": 34,
@@ -87,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 166,
-    "timeWeek": 158,
-    "timeMonth": 173,
+    "timeDay": 49,
+    "timeWeek": 138,
+    "timeMonth": 169,
     "timeYear": 170,
     "dailyMinutesDown": {}
   }

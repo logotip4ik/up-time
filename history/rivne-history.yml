@@ -1,7 +1,7 @@
 url: https://rivne-history.surge.sh
-status: up
-code: 200
-responseTime: 224
-lastUpdated: 2022-06-27T15:35:33.218Z
+status: down
+code: 503
+responseTime: 1303
+lastUpdated: 2022-06-27T15:51:49.107Z
 startTime: Tue Nov 24 2020 09:13:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
